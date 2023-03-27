@@ -24,7 +24,8 @@ Azure DevOps is a Software as a service (SaaS) platform from Microsoft that prov
 
 
 
-Agile principles
+## Agile principles
+
 - Scrum: A framework that emphasizes teamwork, accountability, and iterative progress toward a well-defined goal.
 
 - Kanban: A method that focuses on visualizing work, limiting work in progress, and maximizing efficiency.
