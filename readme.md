@@ -21,3 +21,17 @@ Agile is a collection of principles used in software development and project man
 ## What is Azure DevOps 2018
 
 Azure DevOps is a Software as a service (SaaS) platform from Microsoft that provides an end-to-end DevOps toolchain for developing and deploying software
+
+
+
+Agile principles
+- Scrum: A framework that emphasizes teamwork, accountability, and iterative progress toward a well-defined goal.
+
+- Kanban: A method that focuses on visualizing work, limiting work in progress, and maximizing efficiency.
+
+- Extreme Programming (XP): A methodology that emphasizes customer satisfaction through frequent releases of working software.
+
+- Lean Software Development: A methodology that focuses on delivering value to the customer by eliminating waste and optimizing the delivery process. (Minimum Viable Product - Deliver as fast as possible)
+
+- Crystal: A family of methodologies that emphasizes communication and teamwork to achieve project goals.
+- The Crystal agile methodology is an agile framework which puts focus on the interaction among individuals rather than on the processes and tools used. [It empowers teams to find their own solutions to problems instead of being confined by rigid methodologies of doing things](https://buildd.co/product/crystal-agile-methodology)[3](https://buildd.co/product/crystal-agile-methodology). [The Crystal family focuses on the realization that each project has unique characteristics](https://www.toolsqa.com/agile/crystal-method/)[4](https://www.toolsqa.com/agile/crystal-method/).
