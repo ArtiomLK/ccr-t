@@ -17,3 +17,7 @@ DevOps is a methodology in the software development and IT industry. Used as a s
 ## What is Agile
 
 Agile is a collection of principles used in software development and project management. Agile focuses on enabling teams to deliver work in small, workable increments, thus delivering value to their customers with ease.
+
+## What is Azure DevOps
+
+Azure DevOps is a Software as a service (SaaS) platform from Microsoft that provides an end-to-end DevOps toolchain for developing and deploying software
